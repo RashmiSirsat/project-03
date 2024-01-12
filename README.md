@@ -1,1 +1,1 @@
-# project-03
+The project name is "Infinite Scroll"
